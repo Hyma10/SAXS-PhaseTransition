@@ -14,6 +14,10 @@ Monitoring nanocarrier phase transitions requires tracking peak shifts and inter
 * **Language:** Python[cite: 1]
 * **Libraries:** NumPy[cite: 1], SciPy, Matplotlib[cite: 1]
 
+## Project Structure
+* `saxs_analyzer.py` - Core Python script for simulating and plotting time-resolved SAXS profiles[cite: 1].
+* `requirements.txt` - Dependency configuration file.
+
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the analysis script: `python saxs_analyzer.py`[cite: 1]
